@@ -1,0 +1,5 @@
+a = int(input("Input an integer : "))
+n1 = int( "%s" % 5 )
+n2 = int( "%s%s" % (5,5) )
+n3 = int( "%s%s%s" % (5,5,5) )
+print (n1+n2+n3)
